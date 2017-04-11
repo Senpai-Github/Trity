@@ -1,5 +1,5 @@
-# coding: utf-8
 #!/usr/bin/env python
+# coding: utf-8
 import sys, platform, subprocess, socket, time, os, urllib, platform, random, string, smtplib, urllib2, getpass, zipfile
 from urllib2 import urlopen
 from time import sleep
